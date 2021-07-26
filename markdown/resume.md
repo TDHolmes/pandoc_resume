@@ -1,6 +1,10 @@
 Tyler Holmes
 ============
 
+> Firmware engineer specializing in low power sensing architecture
+>
+> <tyler@holmesengineering.com> • +1 (507) 779-4334 • Cupertino, CA
+
 Education
 ---------
 
@@ -9,45 +13,46 @@ Education
 
     *GPA: 3.83 - Focus on Embedded Systems*
 
+---
+
 Experience
 ----------
 
 **Senior Firmware Engineer, Apple** (_2018-Present_)
 
-Delivered high quality firmware enabling sensing across multiple product
-categories, focusing on low-power multitouch sensing & algorithms infrastructure.
+* Touch firmware DRI for the 2nd generation Siri Remote and low power infrastructure across
+  the product, achieving multi-month battery life
 
-* Touch firmware DRI for the 2nd gen Siri Remote & low power infrastructure across
-  the product, acheiving multi-month battery life
+* Touch and display firmware DRI for the HomePod mini, enabling edge-to-edge
+  touch and display while accommodating ambient light sensing through the top cap
 
-* Touch and display firmware DRI for the HomePod mini, enabling edge to edge
-  touch & display while accomidating ambient light sensing through the top cap
-
-* Took over both the 16" Macbook Pro and Magic Keyboard for iPad touch firmware,
-  solving large power & haptic latency regressions
+* Took over both the 16" MacBook Pro and Magic Keyboard for iPad touch firmware after original
+  DRI left, solving large power and haptic latency regressions
 
 * Rearchitected the touch firmware solution on Apple Watch Series 5 across two
-  processors to enable improved water algorithms & debugging
+  processors to enable improved water algorithms and debugging
 
 **Firmware Quality Engineer, Apple** (_2016-2018_)
 
 * Co-designed a powerful and extensible testing framework now used by nearly all of
-  the QE organization, as well as some developers & cross-functional partners
+  the QE organization, as well as some developers and cross-functional partners
 
-* Designed and wrote both automated and manual testing for watch, audio, and home
-  products, including the Apple Watch, AirPods Max, and HomePod
+* Designed and wrote both automated and manual testing across multiple product categories,
+  such as the Apple Watch, AirPods Max, and HomePod
+
+---
 
 Projects
 --------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+[Oven Monitor](https://www.holmesengineering.com/oven-temp-rs/)
+:   A battery-powered oven temperature monitor written embedded rust.
+    Efficient and small, lasting months, and included contributions to [open source](https://github.com/atsamd-rs/atsamd/pulls?q=is%3Apr+author%3ATDHolmes+is%3Amerged).
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+[Binary Clock](https://www.holmesengineering.com/BinaryClock/)
+:   A clock formatted in binary written in less than 4kb of code.
 
+---
 
 Skills
 ------
@@ -58,11 +63,5 @@ Languages
 Dev Tools
 :   git, GitHub, Jenkins, Docker
 
-Other
+ECAD
 :   Schematic Capture, Layout, Circuit Design
-
-
-----
-
-> <tyler@holmesengineering.com> • +1 (507) 779-4334\
-> [holmesengineering.com](https://www.holmesengineering.com) • Cupertino, CA
