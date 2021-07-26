@@ -46,11 +46,11 @@ Projects
 --------
 
 [Oven Monitor](https://www.holmesengineering.com/oven-temp-rs/)
-:   A battery-powered oven temperature monitor written embedded rust.
+:   A battery-powered oven temperature monitor written in embedded rust.
     Efficient and small, lasting months, and included contributions to [open source](https://github.com/atsamd-rs/atsamd/pulls?q=is%3Apr+author%3ATDHolmes+is%3Amerged).
 
 [Binary Clock](https://www.holmesengineering.com/BinaryClock/)
-:   A clock formatted in binary written in less than 4kb of code.
+:   A clock formatted in binary, written in less than 4kb of code and 256 bytes of RAM.
 
 ---
 
