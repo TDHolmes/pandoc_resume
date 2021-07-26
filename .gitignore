@@ -1,4 +1,7 @@
+# tex stuff
 *.log
 *.swo
 *.swp
-output/
+
+# mac stuff
+*.DS_Store
